@@ -7,4 +7,4 @@ Command to run: python Email_Finder.pyc
 Modules to be installed: punter
 
 Input:::
-eg: babu@example.com
+eg: www.example.com or example.com
